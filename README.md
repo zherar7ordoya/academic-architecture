@@ -1,2 +1,6 @@
-# UAI-AAS
- UAI - Arquitectura Académica de Software
+# Arquitectura Académica de Software
+ 
+Según las cátedras de:
+
+- Darío Cardacci
+- Nicolás Battaglia
